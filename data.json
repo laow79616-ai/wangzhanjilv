@@ -1,5 +1,5 @@
 {
-  "seq": 292,
+  "seq": 293,
   "items": [
     {
       "id": 1,
@@ -4275,6 +4275,21 @@
       "twitter": "",
       "note": "",
       "createdAt": "2026-09-01T14:14:49.940Z"
+    },
+    {
+      "id": 293,
+      "url": "https://d.xintai188.com",
+      "name": "",
+      "contact": "",
+      "style": "",
+      "theme": "",
+      "users": "",
+      "countries": "",
+      "tg": "",
+      "tgUsers": "",
+      "twitter": "",
+      "note": "",
+      "createdAt": "2026-09-01T14:15:54.126Z"
     }
   ]
 }
