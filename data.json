@@ -1,5 +1,5 @@
 {
-  "seq": 24,
+  "seq": 25,
   "items": [
     {
       "id": 1,
@@ -251,6 +251,21 @@
       "tgUsers": "",
       "note": "",
       "createdAt": "2026-09-01T09:50:11.407Z"
+    },
+    {
+      "id": 25,
+      "url": "https://avjb.com",
+      "name": "",
+      "contact": "",
+      "style": "",
+      "theme": "",
+      "users": "",
+      "countries": "",
+      "tg": "",
+      "tgUsers": "",
+      "twitter": "",
+      "note": "",
+      "createdAt": "2026-09-01T11:06:07.199Z"
     }
   ]
 }
