@@ -1,5 +1,5 @@
 {
-  "seq": 295,
+  "seq": 296,
   "items": [
     {
       "id": 1,
@@ -382,7 +382,7 @@
       "name": "XX9",
       "contact": "",
       "style": "主播视频",
-      "theme": "zhu",
+      "theme": "主播直播",
       "users": "471/237/435",
       "countries": "中国澳大利亚美国香港日本",
       "tg": "",
@@ -4320,6 +4320,21 @@
       "twitter": "",
       "note": "",
       "createdAt": "2026-09-01T14:27:03.509Z"
+    },
+    {
+      "id": 296,
+      "url": "https://www.91rb.com",
+      "name": "",
+      "contact": "",
+      "style": "",
+      "theme": "",
+      "users": "",
+      "countries": "",
+      "tg": "",
+      "tgUsers": "",
+      "twitter": "",
+      "note": "",
+      "createdAt": "2026-09-02T03:51:35.650Z"
     }
   ]
 }
