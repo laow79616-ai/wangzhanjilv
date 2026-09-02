@@ -1,5 +1,5 @@
 {
-  "seq": 300,
+  "seq": 301,
   "items": [
     {
       "id": 1,
@@ -1665,6 +1665,21 @@
       "twitter": "",
       "note": "",
       "createdAt": "2026-09-02T14:09:18.523Z"
+    },
+    {
+      "id": 301,
+      "url": "https://www.hackaventus.com",
+      "name": "",
+      "contact": "",
+      "style": "",
+      "theme": "",
+      "users": "",
+      "countries": "",
+      "tg": "",
+      "tgUsers": "",
+      "twitter": "",
+      "note": "",
+      "createdAt": "2026-09-02T15:14:55.781Z"
     }
   ]
 }
