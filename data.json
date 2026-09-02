@@ -1,5 +1,5 @@
 {
-  "seq": 301,
+  "seq": 302,
   "items": [
     {
       "id": 1,
@@ -1590,6 +1590,21 @@
       "twitter": "",
       "note": "",
       "createdAt": "2026-09-02T16:13:10.080Z"
+    },
+    {
+      "id": 302,
+      "url": "https://www.llsp.me",
+      "name": "",
+      "contact": "",
+      "style": "",
+      "theme": "",
+      "users": "",
+      "countries": "",
+      "tg": "",
+      "tgUsers": "",
+      "twitter": "",
+      "note": "",
+      "createdAt": "2026-09-02T16:14:34.324Z"
     }
   ]
 }
