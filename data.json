@@ -1,5 +1,5 @@
 {
-  "seq": 304,
+  "seq": 303,
   "items": [
     {
       "id": 1,
@@ -1055,11 +1055,11 @@
       "id": 295,
       "url": "https://zh.djav.org/channels/77/tube8/",
       "name": "DJAVPORN",
-      "contact": "",
+      "contact": "xu",
       "style": "",
       "theme": "",
       "users": "62.8K-20.8K-20.8K",
-      "countries": "法国美国香港de'g",
+      "countries": "法国美国香港德国马来西亚",
       "tg": "",
       "tgUsers": "",
       "twitter": "",
@@ -1185,21 +1185,6 @@
       "twitter": "",
       "note": "",
       "createdAt": "2026-09-03T05:16:42.651Z"
-    },
-    {
-      "id": 304,
-      "url": "https://zh.sixunlove.com",
-      "name": "",
-      "contact": "",
-      "style": "",
-      "theme": "",
-      "users": "",
-      "countries": "",
-      "tg": "",
-      "tgUsers": "",
-      "twitter": "",
-      "note": "",
-      "createdAt": "2026-09-03T06:49:17.161Z"
     }
   ]
 }
